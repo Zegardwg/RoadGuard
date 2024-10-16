@@ -1,1 +1,1 @@
-### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components
+### This Web crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components & Tailwind CSS
